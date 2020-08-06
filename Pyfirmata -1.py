@@ -1,4 +1,4 @@
-#Pyfirmata -1
+#PyFirmata -1
 
 Import pyfirmata
 board = pyfirmata.Arduino (‘dev/ttyACMO’)
