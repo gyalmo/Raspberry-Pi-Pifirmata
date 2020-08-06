@@ -1,4 +1,4 @@
-# Raspberry-Pi-Pyfirmata
+# Raspberry-Pi-PyFirmata
 
 ## Controlling an Arduino with PyFirmata
 
